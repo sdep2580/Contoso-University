@@ -1,9 +1,0 @@
-c:\users\sdep4647_2\documents\visual studio 2015\Projects\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.dacpac
-c:\users\sdep4647_2\documents\visual studio 2015\Projects\ContosoUniversityData\ContosoUniversityData\obj\Debug\ContosoUniversityData.dll
-c:\users\sdep4647_2\documents\visual studio 2015\Projects\ContosoUniversityData\ContosoUniversityData\obj\Debug\ContosoUniversityData.pdb
-C:\Users\sdep4647_2\Documents\Visual Studio 2015\Projects\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.dll
-C:\Users\sdep4647_2\Documents\Visual Studio 2015\Projects\ContosoUniversityData\ContosoUniversityData\bin\Debug\ContosoUniversityData.pdb
-C:\Users\sdep4647_2\Documents\Visual Studio 2015\Projects\ContosoUniversityData\ContosoUniversityData\obj\Debug\Model.xml
-C:\Users\sdep4647_2\Documents\Visual Studio 2015\Projects\ContosoUniversityData\ContosoUniversityData\obj\Debug\refactor.xml
-C:\Users\sdep4647_2\Documents\Visual Studio 2015\Projects\ContosoUniversityData\ContosoUniversityData\obj\Debug\postdeploy.sql
-C:\Users\sdep4647_2\Documents\Visual Studio 2015\Projects\ContosoUniversityData\ContosoUniversityData\obj\Debug\predeploy.sql
